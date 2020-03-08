@@ -133,16 +133,14 @@ body {
   align-items: baseline;
 }
 
-.contact_type {
-
-}
 .loc {
   padding-left: 3px;
   padding-right: 3px;
 }
+
 .tel {
   padding-left: 1px;
-padding-right: 2px;
+  padding-right: 2px;
 }
 
 .contact_description {
@@ -152,6 +150,11 @@ padding-right: 2px;
   color: #f0d8d9;
   font-weight: 400;
   text-align: left;
+}
+
+a.contact_description {
+  text-decoration: none;
+  color: #f0d8d9;
 }
 
 .footer {
