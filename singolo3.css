@@ -186,6 +186,7 @@ padding-right: 2px;
   padding-top: 21px;
 }
 
-.icon_footer {
-
+.icon_footer:hover,
+.submit:hover {
+  opacity: 70%;
 }
